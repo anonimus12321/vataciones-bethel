@@ -1,1 +1,1 @@
-# vataciones-bethel
+# votaciones-bethel
